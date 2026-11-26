@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saad Ahansal</h1>
 
-<!--
-**saadH4k/saadH4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">IT Support | Networking | Cybersecurity</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Engineering student passionate about digital infrastructure,
+  network administration, and cybersecurity.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Engineering student in Morocco.
+- 🖥️ Interested in IT support, systems administration, and networking.
+- 🛡️ Developing my knowledge of cybersecurity and SOC operations.
+- 🧪 Practicing through hands-on labs and troubleshooting.
+- 🌱 Learning more about Linux, Windows, and network security.
+
+### 🛠️ Tools & Technologies
+
+- **Operating systems:** Windows, Linux, Ubuntu
+- **Networking:** Cisco Packet Tracer, TCP/IP, DHCP, SSH
+- **Virtualization:** VMware
+- **Scripting:** PowerShell
+
+### 🔍 Areas of Interest
+
+- Security Operations Center (SOC)
+- Network monitoring and troubleshooting
+- IT support and infrastructure
+- Cybersecurity labs
+
+---
+
+<p align="center">Thanks for visiting my profile!</p>
