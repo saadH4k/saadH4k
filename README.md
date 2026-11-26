@@ -1,3 +1,4 @@
+![Saad Ahansal's GitHub banner](banner.png)
 <h1 align="center">Hi 👋, I'm Saad Ahansal</h1>
 
 <h3 align="center">IT Support | Networking | Cybersecurity</h3>
